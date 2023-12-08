@@ -1,0 +1,24 @@
+[
+  {
+    "img": "https://pibig.info/uploads/posts/2022-11/thumbs/1669310663_1-pibig-info-p-forks-gorod-oboi-1.jpg",
+    "alt": "Forest near the city of Forks",
+    "title": "Город Форкс",
+    "description": "Форкс, также ранее известный как некорпоративный город Квиллет, представляет собой город на юго-западе округа Клаллам, штат Вашингтон, США. Население по переписи 2020 года составляло 3335 человек.",
+    "buttonTitle": "Узнать больше",
+    "buttonLink": "https://en.wikipedia.org/wiki/Forks,_Washington"
+  },
+  {
+    "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/b4/55/2d/la-push-beach-at-sunset.jpg?w=1200&h=-1&s=1",
+    "alt": "La Push beach",
+    "title": "Пляж Ла-Пуш",
+    "description": "Находится на тихоокеанском побережье США в северо-западной части штата Вашингтон. Является частью природного парка Олимпик, охраняемого государством. Береговая линия условно делится на три части – Первый пляж, Второй и Третий.",
+    "buttonTitle": "Узнать больше",
+    "buttonLink": "https://en.wikipedia.org/wiki/La_Push,_Washington"
+  },
+  {
+    "title": "Вампир",
+    "description": "Персонаж низшей мифологии народов Европы; чаще всего человек-полумертвец, либо мертвец, или реже, животное, ведущее ночной образ жизни, сосущее кровь у людей и насылающее ночные кошмары.",
+    "buttonTitle": "Узнать больше",
+    "buttonLink": "https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D0%BC%D0%BF%D0%B8%D1%80"
+  }
+]

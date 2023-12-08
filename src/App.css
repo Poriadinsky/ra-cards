@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+ul {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.card {
+  width: 300px;
+  border: 1px solid gray;
+}
+
+.card-img-top {
+  width: 100%;
+}
+
+.card-body {
+  padding: 10px;
+}
+
+.card-title {
+  font-size: 20px;
+  padding: 10px 0;
+}
+
+.card-text {
+  margin-bottom: 20px;
+}
+
+.btn-primary {
+  background-color: rgb(8, 120, 247);
+  padding: 10px;
+  border-radius: 5px;
+  color: white;
+}
